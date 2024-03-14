@@ -1,3 +1,36 @@
-body{
-    background-color: blue;
+
+.footer {
+    background-color: black;
+}
+
+.registradora h2{
+    color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    margin:auto 80px;
+
+}
+
+.registradora p{
+    color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-datos label {
+    color: #f5f5f5;
+    display: block;
+
+
+}
+
+.menu-datos {
+    /* border: 1px dotted yellow; */
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px 0 20px 0;
+}
+
+input.input {
+    width: 100%;
 }
