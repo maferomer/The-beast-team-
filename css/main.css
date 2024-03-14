@@ -11,6 +11,8 @@ header .menu-items{
     display: flex;
     justify-content: space-around;
     padding-bottom: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 a,.menu-items nav ul{
