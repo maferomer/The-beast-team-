@@ -7,7 +7,7 @@ body{
 header .menu-items{
     width: 90%;
     margin: 0 auto;
-    background-color: gray;
+    background-color: #1B1B1B;
     display: flex;
     justify-content: space-around;
     padding-bottom: 20px;
@@ -21,7 +21,16 @@ a,.menu-items nav ul{
     gap: 20px;
     color: white;
     margin-top: 17px;
+    font-family: monospace;
+    font-size: 14px;
 }
 .items-social{
-    margin-top: 35px;
+    margin-left: 200px;
+    
 }
+.items-social i {
+    margin-top: 35px;
+    color: white;
+    margin-left: 20px;  
+     
+} 
