@@ -1,4 +1,5 @@
 
+
 .footer {
     background-color: black;
 }
@@ -118,3 +119,16 @@ a,.menu-items nav ul{
      
 } 
 
+
+img {
+  
+    float: right;
+    margin-right: 110px;
+    width: 300px;
+    height: 170px;
+
+}
+
+footer.footer {
+    clear: both;}
+    
