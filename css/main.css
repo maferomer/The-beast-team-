@@ -1,5 +1,79 @@
-body{
-    background-color: blue;
+
+.footer {
+    background-color: black;
 }
 
-/* Mafe */
+.registradora h2{
+    color: #f5f5f5;
+    display: flex;
+    width: 20%;
+    margin: 0 auto;
+    padding: 40px 0 5px 0; 
+    font-size: 45px;
+
+}
+
+.registradora p{
+    color: #f5f5f5;
+    /* border: 3px solid blue; */
+    width: 40%;
+    display: flex;
+    margin: 0 auto;
+    padding: 10px 0 10px 0;
+
+
+}
+
+.menu-datos label {
+    color: #f5f5f5;
+    display: block;
+}
+
+.menu-datos {
+    /* border: 1px dotted yellow; */
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px 0 20px 0;
+}
+
+input.input {
+    width: 100%;
+    margin: 3px 0 3px 0;
+    padding: 8px;
+}
+
+button {
+    background-color: #3F8E00;
+    color: #f5f5f5;
+    border-color: #3F8E00;
+    padding: 10px 100px 10px 100px;
+}
+
+.submit {
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px 50px 20px 80px;
+}
+
+
+.input2 {
+    width: 100%;
+    margin: 3px 0 3px 0;
+    padding: 8px;
+
+}
+
+div.pie1 {
+    background-color: #1B1B1B;
+    padding: 15px;
+    color: #f5f5f5;
+}
+
+div.pie1 h4 {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-items: center;
+    justify-content: center;
+
+}
